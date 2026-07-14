@@ -1,2 +1,2 @@
 # .github
-Pagefiles of Team AHG
+Pagefiles of AHG Group
